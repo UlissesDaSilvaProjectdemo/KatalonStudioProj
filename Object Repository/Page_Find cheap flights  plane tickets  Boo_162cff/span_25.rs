@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>16fa5a99-9275-4460-a6c6-231c01f832a9</webElementGuid>
+      <webElementGuid>fae2e4fa-693d-47cd-a880-ea729133701e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>-1</value>
-      <webElementGuid>48fa048f-5aaf-456b-8097-940194dbcd4c</webElementGuid>
+      <webElementGuid>990131fe-0ad1-4925-a74b-db9459c8a89a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>Calendar-module__date___BoBZ+ Calendar-module__date--hoverable___jwePs Calendar-module__date--selected___0Lmxz Calendar-module__date--selected-end___VtFgq</value>
-      <webElementGuid>2a8d8b47-0e17-48c5-b016-6ed7ab53235e</webElementGuid>
+      <webElementGuid>d0d26aa3-5b2f-4269-8019-ee8b0b91bd0b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>data-date</name>
       <type>Main</type>
       <value>2025-01-25</value>
-      <webElementGuid>a54d294c-b9b8-4484-8fa4-2d3d1dfe188d</webElementGuid>
+      <webElementGuid>45d327ae-dc73-4cac-aab9-85f93482fb66</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>aria-checked</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>ed1329d5-8e04-445c-99d7-40f4ea827cdd</webElementGuid>
+      <webElementGuid>b727ade6-4496-4822-a326-9f5a0cd798be</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>role</name>
       <type>Main</type>
       <value>checkbox</value>
-      <webElementGuid>6a32e142-deb5-42ed-affe-171930be24ee</webElementGuid>
+      <webElementGuid>3816416c-4080-46c0-94e9-50e610e57ffb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>aria-label</name>
       <type>Main</type>
       <value>25 January 2025</value>
-      <webElementGuid>9de1b96e-f3ce-45ec-b461-b5f1a80b607c</webElementGuid>
+      <webElementGuid>40f9e626-c793-45f3-9e3c-a8cb8e0f67e1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -85,7 +85,7 @@
       <name>text</name>
       <type>Main</type>
       <value>25</value>
-      <webElementGuid>e9ed36d6-b3a7-45eb-a7a7-5083dddbba21</webElementGuid>
+      <webElementGuid>802ef433-2284-44b4-85c4-53e561d0c861</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;:R4ll1995:&quot;)/div[@class=&quot;Flyout-module__inner___yOVSv Popover-module__root___Hbald Popover-module__root--fill___GfL+b&quot;]/div[@class=&quot;DateDropDown-module__popovercontainer___ZHcTt&quot;]/div[@class=&quot;DateDropDown-module__calendarWrapperInner___qvRnO&quot;]/div[@class=&quot;Calendar-module__root___CUKVx Calendar-module__root--full-height___XpvSS&quot;]/div[@class=&quot;Calendar-module__content___UHIgA&quot;]/div[@class=&quot;Calendar-module__monthWrapper___T0gG4&quot;]/table[@class=&quot;Calendar-module__dates___RSax3&quot;]/tbody[1]/tr[4]/td[@class=&quot;Calendar-module__cell___7S9c-&quot;]/span[@class=&quot;Calendar-module__date___BoBZ+ Calendar-module__date--hoverable___jwePs Calendar-module__date--selected___0Lmxz Calendar-module__date--selected-end___VtFgq&quot;]</value>
-      <webElementGuid>8f4f2ece-cc9b-40b2-8544-8dd2f71eabb1</webElementGuid>
+      <webElementGuid>8519e7ec-873b-4d1d-bc53-9d4ee8ed545a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id=':R4ll1995:']/div/div/div/div/div/div/table/tbody/tr[4]/td[6]/span</value>
-      <webElementGuid>c57cd515-b3ed-48ce-82d4-5d7f2482bb74</webElementGuid>
+      <webElementGuid>d5abe6c2-d6ff-4a91-95bf-3406bed7b4f7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Su'])[1]/following::span[73]</value>
-      <webElementGuid>e217eaa4-8cd1-4d77-ab67-4c83504fa680</webElementGuid>
+      <webElementGuid>27f8dbf1-d56e-4a14-8ca0-6a8660ccc4eb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Sa'])[1]/following::span[73]</value>
-      <webElementGuid>e53f8cc2-d557-4457-9767-006b6221f760</webElementGuid>
+      <webElementGuid>59ff9c1f-e4d7-4dc1-863a-2b9c1288df93</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='February 2025'])[1]/preceding::span[21]</value>
-      <webElementGuid>4da438b0-2bc8-4432-b520-06cc99da8e01</webElementGuid>
+      <webElementGuid>bad7efe7-a59f-4350-891a-eff64d21cbd5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +133,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Mo'])[2]/preceding::span[21]</value>
-      <webElementGuid>d877c534-a4c9-464e-83d6-32ebae502151</webElementGuid>
+      <webElementGuid>9909d899-8327-4f08-bcdf-65ce40942fbe</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,7 +141,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//tr[4]/td[6]/span</value>
-      <webElementGuid>44e2454d-1cd9-48a6-b6bd-9a6e65f3feb8</webElementGuid>
+      <webElementGuid>8f3cbb25-67ac-48d6-b77e-2c1c5afe2e20</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -149,6 +149,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = '25' or . = '25')]</value>
-      <webElementGuid>4e2f586f-3def-448e-9c4a-621f2f9bb4c7</webElementGuid>
+      <webElementGuid>cc5c9301-66aa-45df-bbf8-bfe007856a90</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

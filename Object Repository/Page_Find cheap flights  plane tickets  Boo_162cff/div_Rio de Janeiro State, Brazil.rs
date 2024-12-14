@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Accept</name>
+   <name>div_Rio de Janeiro State, Brazil</name>
    <tag></tag>
-   <elementGuidId>a6be92fc-fb17-4c14-9b84-3fe6d3b141e4</elementGuidId>
+   <elementGuidId>5f743946-b179-4443-ae15-042612798960</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#onetrust-accept-btn-handler</value>
+         <value>span.List-module__content___48Y6B > div.Text-module__root--variant-body_2___QdAaF.Text-module__root--color-neutral_alt___lEfO4</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='onetrust-accept-btn-handler']</value>
+         <value>//ul[@id='flights-searchbox_suggestions']/li/span[2]/div</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=button[name=&quot;Accept&quot;i]</value>
+         <value>internal:text=&quot;Rio de Janeiro State, Brazil&quot;i</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -28,87 +28,79 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>7303f7a1-82e6-444e-8f92-c650bfb5d705</webElementGuid>
+      <value>div</value>
+      <webElementGuid>d4b38146-3fea-4102-b058-5300336721c2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>id</name>
+      <name>class</name>
       <type>Main</type>
-      <value>onetrust-accept-btn-handler</value>
-      <webElementGuid>e86f6e2b-f897-4ec8-b8ba-66721fa45483</webElementGuid>
+      <value>Text-module__root--variant-body_2___QdAaF Text-module__root--color-neutral_alt___lEfO4</value>
+      <webElementGuid>ea538c28-9a39-4bad-80c4-11f1ef920036</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Accept</value>
-      <webElementGuid>2dd1a6a6-d226-4a03-9112-ede61de59ef0</webElementGuid>
+      <value>Rio de Janeiro State, Brazil  </value>
+      <webElementGuid>a3b4191e-6e7c-4288-9578-5d3b88474f8d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;onetrust-accept-btn-handler&quot;)</value>
-      <webElementGuid>c9273651-4f8c-4fc1-82f7-fc8c5561c844</webElementGuid>
+      <value>id(&quot;flights-searchbox_suggestions&quot;)/li[@class=&quot;List-module__location___w04Kf&quot;]/span[@class=&quot;List-module__content___48Y6B&quot;]/div[@class=&quot;Text-module__root--variant-body_2___QdAaF Text-module__root--color-neutral_alt___lEfO4&quot;]</value>
+      <webElementGuid>a787fb0d-0672-4e60-80c2-33546ab0e8b4</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
-      <type>Main</type>
-      <value>//button[@id='onetrust-accept-btn-handler']</value>
-      <webElementGuid>d0003b96-65a2-4fe3-ba9c-0e567ffec9e2</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='onetrust-button-group']/button[2]</value>
-      <webElementGuid>fe596778-f92f-484c-905a-bbf0f3786b25</webElementGuid>
+      <value>//ul[@id='flights-searchbox_suggestions']/li/span[2]/div</value>
+      <webElementGuid>d64f617e-231c-4b58-b2c7-452c1ac8795e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Decline'])[1]/following::button[1]</value>
-      <webElementGuid>2452e687-1051-4472-8a8a-27a66f8e08a0</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='RIO'])[1]/following::div[1]</value>
+      <webElementGuid>c5c6e445-33cb-41ee-bcb5-756a5ee37da1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Privacy &amp; Cookie Statement'])[1]/following::button[2]</value>
-      <webElementGuid>5ba1a1f0-623a-4e10-9cfb-c74b548d8e32</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='GIG'])[1]/preceding::div[2]</value>
+      <webElementGuid>2221f144-765d-495b-8863-baa07c76c11c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Accept']/parent::*</value>
-      <webElementGuid>24a055a3-c400-4050-9974-f0a2e3879cf3</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Rio de Janeiro State, Brazil']/parent::*</value>
+      <webElementGuid>5a884150-e799-4fe0-84c0-333bd26d6e23</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/div/button[2]</value>
-      <webElementGuid>eae6345b-4d8a-4917-84b5-6290a7b8f3fc</webElementGuid>
+      <value>//span[2]/div</value>
+      <webElementGuid>79d9dfbc-e7f4-4fb1-a8fa-ad14f9d1c48b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@id = 'onetrust-accept-btn-handler' and (text() = 'Accept' or . = 'Accept')]</value>
-      <webElementGuid>4fec98b2-94f3-4da3-9e2e-255ef5446027</webElementGuid>
+      <value>//div[(text() = 'Rio de Janeiro State, Brazil  ' or . = 'Rio de Janeiro State, Brazil  ')]</value>
+      <webElementGuid>6c13f6c5-6cab-43c3-84dc-f16691fd55fd</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
