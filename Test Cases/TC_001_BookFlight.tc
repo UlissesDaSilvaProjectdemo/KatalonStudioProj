@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_001_BookFlight</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b0c21ac2-ae11-4a5a-9a7f-7b0562a6c92c</testCaseGuid>
+</TestCaseEntity>

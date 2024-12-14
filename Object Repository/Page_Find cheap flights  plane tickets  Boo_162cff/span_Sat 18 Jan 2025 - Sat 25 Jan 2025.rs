@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Sat 18 Jan 2025 - Sat 25 Jan 2025</name>
+   <tag></tag>
+   <elementGuidId>d882a2ab-c19e-4a5d-8660-1edbe8b47896</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='basiclayout']/div/div/div/div/div/div/div/div[2]/div[2]/div/div/div/div/div[2]/button/div/span[2]/span/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Sat 18 Jan 2025 - Sat 25 Jan 2025&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2fd3cb2d-d1d0-449d-abfa-6c917c1039d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Text-module__root--variant-body_2___QdAaF</value>
+      <webElementGuid>2c291bd0-d101-4db0-a763-6d1341847b9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sat 18 Jan 2025 - Sat 25 Jan 2025</value>
+      <webElementGuid>3cb57161-5bb9-4dbb-bd3d-65665a1d3f62</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;basiclayout&quot;)/div[@class=&quot;AppShell-desktop-module__content___rttDd&quot;]/div[@class=&quot;Frame-module__justify-content_center___dZBwL Frame-module__align-items_center___DCS7Y Frame-module__flex-direction_column___ms2of Frame-module__flex-grow_1___2m7TV&quot;]/div[1]/div[@class=&quot;Frame-module__justify-content_center___dZBwL Frame-module__align-items_start___fpcqd Frame-module__flex-direction_row___xHVKZ Frame-module__padding-right_4___wHa2i Frame-module__padding-left_4___HnlOP&quot;]/div[@class=&quot;Container-module__container___QbI23&quot;]/div[@class=&quot;Frame-module__margin-top_6___qBVzW&quot;]/div[@class=&quot;Stack-module__root___ohshd Stack-module__root--direction-column___xJDCe Stack-module__root--grow-false___eaLO-&quot;]/div[@class=&quot;SearchBoxHorizontalDefault-module__wrapper___sdutu&quot;]/div[@class=&quot;SearchBoxHorizontalDefault-module__line___cg9Cq&quot;]/div[@class=&quot;YellowBox-module__wrapper___ALkEf  YellowBox-module__wrapperShadow___KY3KT&quot;]/div[@class=&quot;SearchBoxHorizontalDefault-module__yellowInner___YmMIY&quot;]/div[@class=&quot;SegmentHorizontal-module__wrapper___EDm8N&quot;]/div[@class=&quot;SegmentHorizontal-module__line___RU3Mb&quot;]/div[@class=&quot;SegmentHorizontal-module__date___xOIh6&quot;]/button[@class=&quot;ShellButton-module__btn___lMwQM&quot;]/div[@class=&quot;ShellButton-module__inner___ruIE+&quot;]/span[@class=&quot;ShellButton-module__content___UQ5tr&quot;]/span[@class=&quot;ShellButton-module__contentInner___SbZm6&quot;]/span[@class=&quot;Text-module__root--variant-body_2___QdAaF&quot;]</value>
+      <webElementGuid>254de9bb-fffd-4245-97af-68da7fed92f3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='basiclayout']/div/div/div/div/div/div/div/div[2]/div[2]/div/div/div/div/div[2]/button/div/span[2]/span/span</value>
+      <webElementGuid>109c6706-0f8e-41fd-8b56-062003ce01d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Where to?'])[2]/following::span[5]</value>
+      <webElementGuid>10254528-ca76-4b6d-a4f5-50f0ebee37a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Where to?'])[1]/following::span[8]</value>
+      <webElementGuid>8a394b63-88c1-4e3e-be8f-b58004704e3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sat 18 Jan 2025 - Sat 25 Jan 2025'])[2]/preceding::span[2]</value>
+      <webElementGuid>d5980824-b3d3-4832-8ac1-4cf31875aeaa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[1]/preceding::span[10]</value>
+      <webElementGuid>c5668a5d-77b8-4530-8d9f-89012eff7496</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Sat 18 Jan 2025 - Sat 25 Jan 2025']/parent::*</value>
+      <webElementGuid>2c4036b7-d201-453c-82ae-7095fd5c654b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button/div/span[2]/span/span</value>
+      <webElementGuid>48d8c4a5-99ea-46c6-be3d-3d9f4285eba3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Sat 18 Jan 2025 - Sat 25 Jan 2025' or . = 'Sat 18 Jan 2025 - Sat 25 Jan 2025')]</value>
+      <webElementGuid>bb91c6e5-1bc7-4bba-bb27-15d97e24f795</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

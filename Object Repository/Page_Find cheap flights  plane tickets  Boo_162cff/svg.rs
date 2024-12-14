@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg</name>
+   <tag></tag>
+   <elementGuidId>f1f41708-c5b1-4e00-ad02-6b29cb4e7b20</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Age 0 - 17'])[1]/following::*[name()='svg'][2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div:nth-child(2) > .InputStepper-module__root___zlers > .InputStepper-module__wrapper___fptXK > button:nth-child(3)</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>09bed320-871c-4c22-867a-61892fdd69ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>0e40395b-a27b-44e5-ac8b-f1f55d9c45d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 24 24</value>
+      <webElementGuid>2a6a5b8d-34da-4b8b-90ed-ddc72afef24c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>50px</value>
+      <webElementGuid>5f4f5163-46f4-4322-be67-c46031bbb057</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;:R4tl1995:&quot;)/div[@class=&quot;Flyout-module__inner___yOVSv Popover-module__root___Hbald Popover-module__root--fill___GfL+b&quot;]/div[@class=&quot;OccupancyDropDown-module__content___ve5Q2&quot;]/div[@class=&quot;OccupancyDropDown-module__contentScrollArea___l4V1X&quot;]/div[@class=&quot;Occupancy-module__wrapper___URu7B&quot;]/div[2]/div[@class=&quot;InputStepper-module__root___zlers&quot;]/div[@class=&quot;InputStepper-module__wrapper___fptXK&quot;]/button[@class=&quot;Actionable-module__root___ph-jy Button-module__root___RNgyk Button-module__root--variant-tertiary___4CkZL Button-module__root--icon-only___dkWUE Button-module__root--size-medium___fCFP3 Button-module__root--variant-tertiary-action___7tY+8 InputStepper-module__add___RF0oT&quot;]/span[@class=&quot;Button-module__icon___JdtNR&quot;]/span[@class=&quot;Icon-module__root___LRxqA Icon-module__root--size-small___5Xgyf&quot;]/svg[1]</value>
+      <webElementGuid>98781d70-3adf-4bf5-8ad3-7bd9ffdf1f4d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Age 0 - 17'])[1]/following::*[name()='svg'][2]</value>
+      <webElementGuid>f0a4a568-9ccc-4955-8e00-a75a540a9d16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Children'])[1]/following::*[name()='svg'][2]</value>
+      <webElementGuid>77c90323-8dec-4148-8cf1-4f4ac10ca724</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select the age this child will be on the date of your final flight'])[1]/preceding::*[name()='svg'][2]</value>
+      <webElementGuid>6c653293-39af-472a-bc63-d15c2e9d18e0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

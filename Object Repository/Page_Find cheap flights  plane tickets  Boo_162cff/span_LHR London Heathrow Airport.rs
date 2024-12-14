@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_LHR London Heathrow Airport</name>
+   <tag></tag>
+   <elementGuidId>d2392a4e-3929-4967-85b8-ff50e15d121c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='flights-searchbox_suggestions']/li[2]/span[3]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;LHR London Heathrow Airport&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>879637ad-b27c-4f74-b7e7-92b9a3b87f37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>LHR London Heathrow Airport </value>
+      <webElementGuid>06ee844b-a3c6-4b30-95f8-2ad8d7c1c97c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;flights-searchbox_suggestions&quot;)/li[@class=&quot;List-module__location___w04Kf&quot;]/span[@class=&quot;List-module__content___48Y6B&quot;]/span[1]</value>
+      <webElementGuid>7caf0fc4-43df-4b76-b720-0f45b8fae5e7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='flights-searchbox_suggestions']/li[2]/span[3]/span</value>
+      <webElementGuid>eb43093f-0c05-40e2-a45a-d5933ebc3e5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Greater London, United Kingdom'])[1]/following::span[9]</value>
+      <webElementGuid>29d939b3-f51f-458c-917f-86d92f569e70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='LON'])[1]/following::span[9]</value>
+      <webElementGuid>92f6fcba-284f-4df4-a490-2deec9d4557d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='London Heathrow Airport']/parent::*</value>
+      <webElementGuid>f4d47af9-9c46-405b-bc88-ec71ae6d303c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/span[3]/span</value>
+      <webElementGuid>f6815ae2-a061-418e-9302-bf89f667343b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'LHR London Heathrow Airport ' or . = 'LHR London Heathrow Airport ')]</value>
+      <webElementGuid>6b42c0e9-cb8c-47f5-8b67-ce153eed40d0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

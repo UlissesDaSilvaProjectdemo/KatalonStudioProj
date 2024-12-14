@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Where to_1</name>
+   <tag></tag>
+   <elementGuidId>a3f8188c-a678-4f66-b4f0-bdf563863276</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='basiclayout']/div/div/div/div/div/div/div/div[2]/div[2]/div/div/div/div/div/div/button[3]/div/span[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Where to?&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2f0d64f5-569b-4ab8-87db-b7c8c5440157</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ShellButton-module__contentInner___SbZm6</value>
+      <webElementGuid>e16a9367-999d-4d90-9411-2f8eae7fb740</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Where to?</value>
+      <webElementGuid>8a62b067-44c1-47c2-9c31-48f38b645e95</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;basiclayout&quot;)/div[@class=&quot;AppShell-desktop-module__content___rttDd&quot;]/div[@class=&quot;Frame-module__justify-content_center___dZBwL Frame-module__align-items_center___DCS7Y Frame-module__flex-direction_column___ms2of Frame-module__flex-grow_1___2m7TV&quot;]/div[1]/div[@class=&quot;Frame-module__justify-content_center___dZBwL Frame-module__align-items_start___fpcqd Frame-module__flex-direction_row___xHVKZ Frame-module__padding-right_4___wHa2i Frame-module__padding-left_4___HnlOP&quot;]/div[@class=&quot;Container-module__container___QbI23&quot;]/div[@class=&quot;Frame-module__margin-top_6___qBVzW&quot;]/div[@class=&quot;Stack-module__root___ohshd Stack-module__root--direction-column___xJDCe Stack-module__root--grow-false___eaLO-&quot;]/div[@class=&quot;SearchBoxHorizontalDefault-module__wrapper___sdutu&quot;]/div[@class=&quot;SearchBoxHorizontalDefault-module__line___cg9Cq&quot;]/div[@class=&quot;YellowBox-module__wrapper___ALkEf  YellowBox-module__wrapperShadow___KY3KT&quot;]/div[@class=&quot;SearchBoxHorizontalDefault-module__yellowInner___YmMIY&quot;]/div[@class=&quot;SegmentHorizontal-module__wrapper___EDm8N&quot;]/div[@class=&quot;SegmentHorizontal-module__line___RU3Mb&quot;]/div[@class=&quot;SegmentHorizontal-module__destination___paTRj&quot;]/div[@class=&quot;OriginDestinationHorizontal-module__wrapper___WgqqT&quot;]/button[@class=&quot;ShellButton-module__btn___lMwQM&quot;]/div[@class=&quot;ShellButton-module__inner___ruIE+&quot;]/span[@class=&quot;ShellButton-module__content___UQ5tr&quot;]/span[@class=&quot;ShellButton-module__contentInner___SbZm6&quot;]</value>
+      <webElementGuid>4c7ff254-f266-4fa5-beed-0107acf38f9a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='basiclayout']/div/div/div/div/div/div/div/div[2]/div[2]/div/div/div/div/div/div/button[3]/div/span[2]/span</value>
+      <webElementGuid>ece122eb-382a-4330-af2c-898d0c9c7409</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BRS'])[2]/following::span[5]</value>
+      <webElementGuid>7ca93f49-4ed0-4fa2-b727-3468458f7f05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Where to?'])[2]/preceding::span[3]</value>
+      <webElementGuid>d6dc66f0-73c0-4a24-a0bd-dc0e44b1b88a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[3]/div/span[2]/span</value>
+      <webElementGuid>db6336d3-9aa7-42db-84dc-27f22b31a6f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Where to?' or . = 'Where to?')]</value>
+      <webElementGuid>77d46274-3dd4-47b2-99ca-59cba3df37bb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

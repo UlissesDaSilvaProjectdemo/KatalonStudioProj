@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_1 adult</name>
+   <tag></tag>
+   <elementGuidId>0e21fde8-4c7b-4736-84ae-26c71797e6f0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='basiclayout']/div/div/div/div/div/div/div/div[2]/div[2]/div/div/div/div/button/div/span[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;1 adult&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>9cb7b81c-53c3-43d8-856e-79fa2b7e557b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ShellButton-module__contentInner___SbZm6</value>
+      <webElementGuid>1c09c9d3-4502-4a88-9308-4dfe0e9800aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>1 adult</value>
+      <webElementGuid>522bf3e6-1d9a-42dc-bbce-9b998eab32b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;basiclayout&quot;)/div[@class=&quot;AppShell-desktop-module__content___rttDd&quot;]/div[@class=&quot;Frame-module__justify-content_center___dZBwL Frame-module__align-items_center___DCS7Y Frame-module__flex-direction_column___ms2of Frame-module__flex-grow_1___2m7TV&quot;]/div[1]/div[@class=&quot;Frame-module__justify-content_center___dZBwL Frame-module__align-items_start___fpcqd Frame-module__flex-direction_row___xHVKZ Frame-module__padding-right_4___wHa2i Frame-module__padding-left_4___HnlOP&quot;]/div[@class=&quot;Container-module__container___QbI23&quot;]/div[@class=&quot;Frame-module__margin-top_6___qBVzW&quot;]/div[@class=&quot;Stack-module__root___ohshd Stack-module__root--direction-column___xJDCe Stack-module__root--grow-false___eaLO-&quot;]/div[@class=&quot;SearchBoxHorizontalDefault-module__wrapper___sdutu&quot;]/div[@class=&quot;SearchBoxHorizontalDefault-module__line___cg9Cq&quot;]/div[@class=&quot;YellowBox-module__wrapper___ALkEf  YellowBox-module__wrapperShadow___KY3KT&quot;]/div[@class=&quot;SearchBoxHorizontalDefault-module__yellowInner___YmMIY&quot;]/div[@class=&quot;SegmentHorizontal-module__wrapper___EDm8N&quot;]/div[@class=&quot;SegmentHorizontal-module__line___RU3Mb&quot;]/button[@class=&quot;ShellButton-module__btn___lMwQM&quot;]/div[@class=&quot;ShellButton-module__inner___ruIE+&quot;]/span[@class=&quot;ShellButton-module__content___UQ5tr&quot;]/span[@class=&quot;ShellButton-module__contentInner___SbZm6&quot;]</value>
+      <webElementGuid>99d9ce15-f84d-4e0c-a2dc-69231cf47841</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='basiclayout']/div/div/div/div/div/div/div/div[2]/div[2]/div/div/div/div/button/div/span[2]/span</value>
+      <webElementGuid>5623064a-dbc9-4e9c-b3a3-5c39db907643</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sat 25 Jan 2025 - Sun 23 Feb 2025'])[2]/following::span[4]</value>
+      <webElementGuid>359bd0f0-2074-4a76-a082-6ab93b610881</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sat 25 Jan 2025 - Sun 23 Feb 2025'])[1]/following::span[7]</value>
+      <webElementGuid>a0d32bb4-22ab-45fb-94e2-68c734f3df7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[1]/preceding::span[3]</value>
+      <webElementGuid>be6a72cd-210e-4fa0-90c0-d32c91d4552e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Popular flights near you'])[1]/preceding::span[4]</value>
+      <webElementGuid>f84a0dbe-f169-4611-8cc2-098e4b16c1bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='1 adult']/parent::*</value>
+      <webElementGuid>0995e235-b154-4c3d-b21e-7c565e7bd4fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/button/div/span[2]/span</value>
+      <webElementGuid>37a6bc55-c61e-4831-9968-b43568bf7816</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '1 adult' or . = '1 adult')]</value>
+      <webElementGuid>e14a36c5-2fee-4015-9473-127d70efa125</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
