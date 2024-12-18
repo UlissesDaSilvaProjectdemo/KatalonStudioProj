@@ -6,12 +6,12 @@
    <elementGuidId>a6be92fc-fb17-4c14-9b84-3fe6d3b141e4</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#onetrust-accept-btn-handler</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//button[@id='onetrust-accept-btn-handler']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#onetrust-accept-btn-handler</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>7303f7a1-82e6-444e-8f92-c650bfb5d705</webElementGuid>
+      <webElementGuid>90313597-dd67-45eb-b276-94984259935d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>id</name>
       <type>Main</type>
       <value>onetrust-accept-btn-handler</value>
-      <webElementGuid>e86f6e2b-f897-4ec8-b8ba-66721fa45483</webElementGuid>
+      <webElementGuid>3177dc13-f19c-4361-bc71-e2121611676f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Accept</value>
-      <webElementGuid>2dd1a6a6-d226-4a03-9112-ede61de59ef0</webElementGuid>
+      <webElementGuid>3afa9aea-6aa7-4fe9-9de8-f6c0a62fa59d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;onetrust-accept-btn-handler&quot;)</value>
-      <webElementGuid>c9273651-4f8c-4fc1-82f7-fc8c5561c844</webElementGuid>
+      <webElementGuid>2fad5af4-9c5b-4a23-80e1-70e057d830ab</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='onetrust-accept-btn-handler']</value>
-      <webElementGuid>d0003b96-65a2-4fe3-ba9c-0e567ffec9e2</webElementGuid>
+      <webElementGuid>a4ee00ad-d971-4664-a5a5-f1e05f47901c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='onetrust-button-group']/button[2]</value>
-      <webElementGuid>fe596778-f92f-484c-905a-bbf0f3786b25</webElementGuid>
+      <webElementGuid>39dbc225-80f0-4b3f-919d-59240c668aca</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Decline'])[1]/following::button[1]</value>
-      <webElementGuid>2452e687-1051-4472-8a8a-27a66f8e08a0</webElementGuid>
+      <webElementGuid>1a93dc4f-a648-4d60-9e94-ccaa3049cef6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Privacy &amp; Cookie Statement'])[1]/following::button[2]</value>
-      <webElementGuid>5ba1a1f0-623a-4e10-9cfb-c74b548d8e32</webElementGuid>
+      <webElementGuid>3f4efc95-3485-4812-a091-c68271253226</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Accept']/parent::*</value>
-      <webElementGuid>24a055a3-c400-4050-9974-f0a2e3879cf3</webElementGuid>
+      <webElementGuid>eb8f7422-bc9e-494f-8aba-3f6b9b2181f0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/button[2]</value>
-      <webElementGuid>eae6345b-4d8a-4917-84b5-6290a7b8f3fc</webElementGuid>
+      <webElementGuid>5bbb92e0-89d5-413c-a076-6393c7eaf89b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@id = 'onetrust-accept-btn-handler' and (text() = 'Accept' or . = 'Accept')]</value>
-      <webElementGuid>4fec98b2-94f3-4da3-9e2e-255ef5446027</webElementGuid>
+      <webElementGuid>fd0a729c-ca63-4dc2-969e-6eb2d17d9be7</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

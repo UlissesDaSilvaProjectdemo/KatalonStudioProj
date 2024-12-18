@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_004_BF_Register</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>44f6b920-c10b-4742-8ff8-ec741d061626</testCaseGuid>
+</TestCaseEntity>
